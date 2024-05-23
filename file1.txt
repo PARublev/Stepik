@@ -1,4 +1,4 @@
-строка1 update
+строка1 update_new update
 
 строка3
 
